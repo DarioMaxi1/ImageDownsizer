@@ -1,0 +1,16 @@
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\bin\Debug\net6.0-windows\imageDownsizer.exe
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\bin\Debug\net6.0-windows\imageDownsizer.deps.json
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\bin\Debug\net6.0-windows\imageDownsizer.runtimeconfig.json
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\bin\Debug\net6.0-windows\imageDownsizer.dll
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\bin\Debug\net6.0-windows\imageDownsizer.pdb
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\obj\Debug\net6.0-windows\imageDownsizer.Form1.resources
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\obj\Debug\net6.0-windows\imageDownsizer.csproj.GenerateResource.cache
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\obj\Debug\net6.0-windows\imageDownsizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\obj\Debug\net6.0-windows\imageDownsizer.AssemblyInfoInputs.cache
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\obj\Debug\net6.0-windows\imageDownsizer.AssemblyInfo.cs
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\obj\Debug\net6.0-windows\imageDownsizer.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\obj\Debug\net6.0-windows\imageDownsizer.dll
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\obj\Debug\net6.0-windows\refint\imageDownsizer.dll
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\obj\Debug\net6.0-windows\imageDownsizer.pdb
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\obj\Debug\net6.0-windows\imageDownsizer.genruntimeconfig.cache
+C:\Users\Dario\Documents\imageDownsizer\imageDownsizer\obj\Debug\net6.0-windows\ref\imageDownsizer.dll
